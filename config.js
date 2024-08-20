@@ -12,4 +12,4 @@ connection.connect(function (error) {
   console.log("database connected!");
 });
 
-module.exports = connection
+module.exports = connection;
